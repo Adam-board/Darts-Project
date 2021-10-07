@@ -1,0 +1,9 @@
+﻿  Dart501.cpp
+  DartBoard.cpp
+  Dart_Main.cpp
+C:\Users\adamb\OneDrive - Abertay University\Software Design\Final Project\Dart301And501\Dart_Main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameMode.cpp
+  Player.cpp
+  Generating Code...
+C:\Users\adamb\OneDrive - Abertay University\Software Design\Final Project\Dart301And501\Dart501.cpp(230): warning C4715: 'Dart501::BullThrow501': not all control paths return a value
+  Dart301And501.vcxproj -> C:\Users\adamb\OneDrive - Abertay University\Software Design\Final Project\Dart301And501\Debug\Dart301And501.exe
